@@ -9,7 +9,7 @@ class Ray {
     var reflectionsCount = 0
         private set
 
-    fun addReflection(coordinates: Coordinates, color: Color) {
+    fun addReflection(color: Color, coordinates: Coordinates) {
         reflections.add(ReflectionDto(coordinates, color))
         reflectionsCount += 1
     }
