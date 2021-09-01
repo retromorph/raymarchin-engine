@@ -9,6 +9,7 @@
     <modules>
         <module>raymarchin-core</module>
         <module>raymarchin-api</module>
+        <module>raymarchin-gui</module>
     </modules>
 
     <groupId>org.crg</groupId>
