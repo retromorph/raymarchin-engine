@@ -1,4 +1,4 @@
-package org.crg.raymarchin.engine.api.render.interfaces
+package org.crg.raymarchin.engine.api.render
 
 /**
  * Интерфейс для камеры

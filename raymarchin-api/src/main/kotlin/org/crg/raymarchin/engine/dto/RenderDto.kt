@@ -1,6 +1,6 @@
-package org.crg.raymarchin.engine.api.render.dto
+package org.crg.raymarchin.engine.dto
 
-import org.crg.raymarchin.engine.api.common.Coordinates
+import org.crg.raymarchin.engine.common.Coordinates
 
 import java.awt.Color
 
@@ -11,4 +11,4 @@ import java.awt.Color
  * @param color цвет
  * @param coordinates координаты точки
  */
-data class RenderDto(val brightness: Float, val color: Color, val coordinates: Coordinates)
+data class RenderDto(val brightness: Double, val color: Color, val coordinates: Coordinates)
