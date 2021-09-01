@@ -1,6 +1,6 @@
 package org.crg.raymarchin.engine.core.render
 
-import org.crg.raymarchin.engine.common.Ray
+import org.crg.raymarchin.engine.api.render.Ray
 import org.crg.raymarchin.engine.dto.RenderDto
 import org.crg.raymarchin.engine.api.render.RayConsumer
 

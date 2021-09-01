@@ -1,6 +1,5 @@
 package org.crg.raymarchin.engine.api.render
 
-import org.crg.raymarchin.engine.common.Ray
 import org.crg.raymarchin.engine.dto.RenderDto
 
 /**

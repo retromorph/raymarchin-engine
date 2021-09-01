@@ -1,5 +1,6 @@
-package org.crg.raymarchin.engine.common
+package org.crg.raymarchin.engine.api.render
 
+import org.crg.raymarchin.engine.common.Coordinates
 import org.crg.raymarchin.engine.dto.ReflectionDto
 import java.awt.Color
 
